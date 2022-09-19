@@ -22,9 +22,11 @@ I am an Ios Developer
 ![image](https://user-images.githubusercontent.com/98653691/190925924-40b903ff-3388-4bb5-8945-9dc3a10c5d6c.png)
 
 ## Connect With me
-![image](https://user-images.githubusercontent.com/98653691/190926903-a5ba96e8-6253-4b18-b2f5-860f2ad945be.png)
-![image](https://user-images.githubusercontent.com/98653691/190926914-147c1137-f4cb-4a86-84c2-a7f9713b9a6a.png)
-![image](https://user-images.githubusercontent.com/98653691/190926941-a87f7382-dbbf-4e38-86d8-de593e0a5e94.png)
+
+[![name](https://user-images.githubusercontent.com/98653691/190926903-a5ba96e8-6253-4b18-b2f5-860f2ad945be.png)](https://www.linkedin.com/in/ey%C3%BCp-emre-ayg%C3%BCn-46b2b91bb/)
+[![name](https://user-images.githubusercontent.com/98653691/190926914-147c1137-f4cb-4a86-84c2-a7f9713b9a6a.png)](https://mail.google.com/mail/u/0/#inbox/)
+[![name](https://user-images.githubusercontent.com/98653691/190926941-a87f7382-dbbf-4e38-86d8-de593e0a5e94.png)](https://github.com/Eyupemre13/)
+
 
 
 
